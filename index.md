@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## How are we going to start?
 
 You can use the [editor on GitHub](https://github.com/myngx/myngx.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
